@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+# VS2015 Files
+*.opendb
+*.sdf
+.vs/
+*.tlog
+*.log
+*.ilk
+*.pdb
+*.idb
